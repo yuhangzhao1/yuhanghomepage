@@ -6,9 +6,9 @@ description: Recruitment information.
 nav: true
 nav_order: 7
 ---
+
 <h2>Recruitment for Undergraduate Research Interns</h2>
 We welcome undergraduate students to join our lab, contribute to our research projects, and gain research experiences. To apply for research opportunities at madAbility Lab, please fill out this [Application Form](https://forms.gle/MpDzAJqqyCGaEgcT9).
-
 
 <!-- <h2>Recruitment for Summer REU Students</h2>
 
