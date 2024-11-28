@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Kassie Povinelli's work on voice changers in social VR for transgender users is accepted to IEEE VR 2024!!!
+<i class="fa-solid fa-star"></i> Kassie Povinelli's work on voice changers in social VR for transgender users is accepted to IEEE VR 2024!!!

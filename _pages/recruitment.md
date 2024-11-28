@@ -6,8 +6,11 @@ description: Recruitment information.
 nav: true
 nav_order: 7
 ---
+<h2>Recruitment for Undergraduate Research Interns</h2>
+We welcome undergraduate students to join our lab, contribute to our research projects, and gain research experiences. To apply for research opportunities at madAbility Lab, please fill out this [Application Form](https://forms.gle/MpDzAJqqyCGaEgcT9).
 
-<h2>Recruitment for Summer REU Students</h2>
+
+<!-- <h2>Recruitment for Summer REU Students</h2>
 
 <b>NSF-funded Research Experience for Undergraduates (REU) @ University of
 Wisconsin-Madison and Virginia Tech <br></b>
@@ -32,7 +35,7 @@ standing. <br>
 <h4> Application Process </h4>
 • Please send your CV to Yuhang Zhao (yuhang.zhao [at] cs.wisc.edu) and Yaxing Yao (yaxing [at] vt.edu) by 5pm central time on April 30, 2024. <br>
 • We will send a zoom interview to selective candidates by May 5th. <br>
-• Notification for final decisions will be sent by May 10th. <br>
+• Notification for final decisions will be sent by May 10th. <br> -->
 
 <br>
 <br>
